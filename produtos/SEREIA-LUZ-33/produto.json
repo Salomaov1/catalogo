@@ -1,0 +1,24 @@
+{
+  "sku": "SEREIA-LUZ-33",
+  "idBling": 16728430706,
+  "nome": "Boneca Sereia Com Luz 33cm + Sereia Mini Kit Mãe e Filha",
+  "preco": 69.99,
+  "condicao": "novo",
+  "tipoAnuncio": "premium",
+  "unidade": "UN",
+  "pesoBrutoKg": 0.35,
+  "pesoLiquidoKg": 0.25,
+  "dimensoesCm": { "altura": 40, "largura": 15, "profundidade": 6 },
+  "medidasEstimadas": true,
+  "imagens": ["01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg"],
+  "destaques": [
+    "Cauda iluminada que acende e pisca em duas cores",
+    "Botão de acionamento nas costas",
+    "Braços e cabeça articulados",
+    "Cabelos coloridos para pentear",
+    "Acompanha uma sereia mini"
+  ],
+  "conteudo": ["1 boneca sereia grande com luz", "1 boneca sereia mini"],
+  "idadeRecomendada": "3+",
+  "observacoes": "Cores de cabelo e cauda podem variar conforme o lote."
+}
